@@ -2289,6 +2289,10 @@
       "op": "union",
       "source": "overpass",
       "id": "Deqing County"
+    }, {
+      "op": "union",
+      "source": "overpass",
+      "id": "Swallow Reef"
     }
   ],
   "Asia/Colombo": [
@@ -4238,11 +4242,7 @@
     {
       "op": "init",
       "source": "overpass",
-      "id": "Kiribati"
-    }, {
-      "op": "intersect",
-      "source": "manual-polygon",
-      "data": [[[173,5],[179,-4],[167,-2],[173,5]]]
+      "id": "Tarawa-tz"
     }
   ],
   "Pacific/Tongatapu": [

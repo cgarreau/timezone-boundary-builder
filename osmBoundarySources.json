@@ -1112,6 +1112,9 @@
   "Sühbaatar": {
     "ISO3166-2": "MN-051"
   },
+  "Swallow Reef": {
+    "name": "Swallow Reef"
+  },
   "Swaziland": {
     "ISO3166-1": "SZ"
   },
@@ -1136,6 +1139,9 @@
   },
   "Tanzania": {
     "name:en": "Tanzania"
+  },
+  "Tarawa-tz": {
+    "timezone": "Pacific/Tarawa"
   },
   "Tasmania": {
     "ISO3166-2": "AU-TAS"
